@@ -32,18 +32,20 @@ section#login{
     left: 50%;
     transform: translate(-50%, -50%);
     overflow: hidden;
+
     background-color: aliceblue;
-    width: 250px;
-    height: 500px;
+    width: 200px;
+    height: 460px;
     border-radius: 20px;
     border-radius: 0px 0px 10px rgba(0, 0, 0, 0.450)
+    
 }
 
 section#login > div#imagem{
     display: block;
     background: #5f2c82 url(../imagens/AguaAzul.jpg) no-repeat;
     background-size: cover;
-    height: 200px;
+    height: 100px;
 }
 
 section#login > div#formulario{
